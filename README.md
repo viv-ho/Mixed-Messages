@@ -1,0 +1,1 @@
+The aim of *Mixed Messages* is to create a program that generates a new randomised message every time the program is run. To make the message truly random, the message should be made up of at least 3 different pieces of data.
