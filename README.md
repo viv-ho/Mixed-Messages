@@ -1,1 +1,3 @@
 The aim of *Mixed Messages* is to create a program that generates a new randomised message every time the program is run. To make the message truly random, the message should be made up of at least 3 different pieces of data.
+
+I have created a program that generates 4 different types of data - these are: garment type, stitch type, sleeve length, neck type. This generates a random message to help an indecisive knitter decide what type of garment they would like to knit. The message generated is of the format 'I would like to knit a *stitch type* *garment type* with *sleeve length* and a *neck type*.
